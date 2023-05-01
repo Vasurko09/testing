@@ -1,0 +1,1 @@
+web: gunicorn vasuu.wsgi --log-file -
